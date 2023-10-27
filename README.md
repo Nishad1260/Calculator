@@ -8,6 +8,6 @@ HTML - Hypertext Markup Language
 CSS - Cascading Style Sheet
   In Css We Desiging and Formatting Calculator
 
-JavaScript
-  In JavaScript We use some Function to add,multiply,divide and subtract values in Calculator
+JavaScript - 
+  In JavaScript We use  Function to add,multiply,divide and subtract values in Calculator
   
